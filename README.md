@@ -23,12 +23,12 @@ Migrate migrations
 ```bash
   php artisan migrate
 ```
-Install Vue/Javascript dependencies
+Install Javascript dependencies
 
 ```bash
   npm install
 ```
-Compile Vue
+Compile Javascript
 
 ```bash
   npm run dev
