@@ -15,6 +15,7 @@
                     @endif
 
                     {{ __('You are logged in!') }}
+                    <first-component />
                 </div>
             </div>
         </div>
